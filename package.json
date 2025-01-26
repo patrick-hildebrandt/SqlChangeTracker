@@ -1,0 +1,22 @@
+{
+  "name": "sql-change-tracker",
+  "version": "1.0.0",
+  "description": "Database Change Tracker",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "Unlicense",
+  "dependencies": {
+    "express": "^4.21.2",
+    "mssql": "^11.0.1",
+    "sqlite": "^5.1.1",
+    "sqlite3": "^5.1.7"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
+}

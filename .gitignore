@@ -1,0 +1,5 @@
+node_modules/
+*.log
+*.sqlite
+config/mssqlConfig.js
+config/sqliteConfig.js

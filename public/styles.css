@@ -34,3 +34,7 @@ td {
     margin-bottom: 2px;
     display: inline-block;
 }
+
+span {
+    word-break: break-all;
+}
